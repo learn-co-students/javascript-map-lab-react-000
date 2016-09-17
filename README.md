@@ -1,9 +1,12 @@
-## JavaScript Map Lab
+JavaScript Map Lab
+---
 
+## Objectives
 
-## Overview 
+1. Practice using `map()`
 
-The `.map()` function allows us to transform elements in an array from one value to another, we can take a look
+## Introduction
+Now that we know how `.map()` allows us to transform elements in an array from one value to another, we can take a look
 at some practical examples. There's no need to implement your own `map()` function, since we can readily use the
 `Array.prototype.map()` method.
 
@@ -35,4 +38,4 @@ dancing friend up here, but the stripes don't have any color yet. Let's fix that
 
 ## Resources
 
-* [MDN: Array.prototype.map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+- [MDN: Array.prototype.map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
